@@ -13,6 +13,8 @@
     "nuxt": "^3.4.3"
   },
   "dependencies": {
-    "aws-amplify": "^5.2.1"
+    "@parcel/watcher": "^2.1.0",
+    "aws-amplify": "^5.2.1",
+    "watchman": "^1.0.0"
   }
 }
